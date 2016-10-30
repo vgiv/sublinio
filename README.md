@@ -12,7 +12,7 @@
 
 # In English
 
-Program SublinioW is a "word for word dictionary" designed to facilitatethe the first phase of translation of Esperanto texts (and, possibly, text of other planned languages).
+Program SublinioW is a "word for word dictionary" designed to facilitate the the first phase of translation of Esperanto texts (and, possibly, text of other planned languages).
 
 Directories:
 
