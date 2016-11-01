@@ -16,7 +16,7 @@ Program SublinioW is a "word for word dictionary" designed to facilitate the the
 
 Directories:
 
-* source - the source code of the program SublinioW (v.2.01) in Delphi.
+* source - the source code of SublinioW (v.2.01) in Delphi.
 
 * binary - the executable file (v.2.01, compiled in Delphi 7) for Windows, dictionaries, configuration files, etc.
 
