@@ -21,3 +21,15 @@ Directories:
 * binary - the executable file (v.2.01, compiled in Delphi 7) for Windows, dictionaries, configuration files, etc.
 
 The old webpage of the program (in Russian only): http://vgiv.narod.ru/sublinio.html
+
+# En Esperanto
+
+Programo SublinioW estas "vorto-post-vorto vortaro" dizajnita por faciligi la unuan fazon de traduko de Esperantaj tekstoj (kaj, eble, teksto de aliaj planlingvoj).
+
+Adresaroj:
+
+* fonto - la fontkodo de SublinioW (v.2.01) en Delfo.
+
+* duuma - la plenumebla dosiero (v.2.01, kompilita en Delphi 7) por Vindozo, vortaroj, agordaj dosieroj ktp.
+
+La malnova retejo de la programo (nur en la rusa): http://vgiv.narod.ru/sublinio.html 
