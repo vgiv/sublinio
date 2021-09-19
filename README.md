@@ -28,8 +28,8 @@ Programo SublinioW estas "vorto-post-vorto vortaro" dizajnita por faciligi la un
 
 Adresaroj:
 
-* fonto - la fontkodo de SublinioW (v.2.01) en Delfo.
+* source - la fontkodo de SublinioW (v.2.01) en Delfo.
 
-* duuma - la plenumebla dosiero (v.2.01, kompilita en Delphi 7) por Vindozo, vortaroj, agordaj dosieroj ktp.
+* binary - la plenumebla dosiero (v.2.01, kompilita en Delphi 7) por Vindozo, vortaroj, agordaj dosieroj ktp.
 
 La malnova retejo de la programo (nur en la rusa): http://vgiv.narod.ru/sublinio.html 
