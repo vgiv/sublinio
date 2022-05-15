@@ -28,7 +28,7 @@ Programo SublinioW estas "vorto-post-vorto vortaro" dizajnita por faciligi la un
 
 Adresaroj:
 
-* source - la fontkodo de SublinioW (v.2.01) en Delfo.
+* source - la fontkodo de SublinioW (v.2.01) en Delphi 7.
 
 * binary - la plenumebla dosiero (v.2.01, kompilita en Delphi 7) por Vindozo, vortaroj, agordaj dosieroj ktp.
 
