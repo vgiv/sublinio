@@ -8,6 +8,8 @@
 
 * binary - исполняемый файл программы (v.2.01, откомпилирован в Delphi 7) для Windows, словари, файлы конфигурации etc.
 
+Краткое описание программы находится здесь: https://github.com/vgiv/sublinio/wiki
+
 Адрес старой страницы программы: http://vgiv.narod.ru/sublinio.html
 
 # In English
