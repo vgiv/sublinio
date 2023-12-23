@@ -22,6 +22,8 @@ Directories:
 
 * binary - the executable file (v.2.01, compiled in Delphi 7) for Windows, dictionaries, configuration files, etc.
 
+A very short description of the program is here: https://github.com/vgiv/sublinio/wiki/A-brief-glance
+
 The old webpage of the program (in Russian only): http://vgiv.narod.ru/sublinio.html
 
 # En Esperanto
